@@ -1,10 +1,10 @@
 import React from "react";
 import Card from "./Card";
+import ErrorBoundary from "./ErrorBoundary";
 
 
 const CardList = ({robots}) =>
 {
-    
     const cardComponent = robots.map((robot,i) => 
         {
             return(
