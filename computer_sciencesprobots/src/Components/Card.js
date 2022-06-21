@@ -3,7 +3,7 @@ import React from "react";
 
 const Card = ({firstName, lastName, profession, id }) =>
 {
-    if(id%2 == 0) {
+    if(id%2 === 0) {
         return(
             <div className="bg-light-blue dib br3 pa3 ma2 bw2 shadow-5 bg-animate hover-bg-light-yellow ">
                 <img src={`https://robohash.org/${id}?200x200`} alt ={`${firstName + lastName} Robot Equivalent`}/>
