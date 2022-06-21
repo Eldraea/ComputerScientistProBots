@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { connect } from 'react-redux/es/exports';
+import {connect} from 'react-redux/es/exports';
 import CardList from '../Components/CardList';
 import SearchBox from '../Components/SearchBox';
 import {robots} from '../robots';
@@ -24,9 +24,9 @@ function App (props){
   const {searchField, onSearchChange} = props
   
   const filteredRobots =robots.filter(robot => {
-        return robot.firstName.toLowerCase().includes(searchField.toLowerCase())
-        ||robot.lastName.toLowerCase().includes(searchField.toLowerCase())
-        ||robot.profession.toLowerCase().includes(searchField.toLowerCase());
+        return robot.firstName.toLowerCase().startsWith(searchField.toLowerCase())
+        ||robot.lastName.toLowerCase().startsWith(searchField.toLowerCase())
+        ||robot.profession.toLowerCase().startsWith(searchField.toLowerCase());
   })
      
   return !robots.length
