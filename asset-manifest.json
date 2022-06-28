@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/computerscientistprobots/static/css/main.bdccbd3b.chunk.css",
-    "main.js": "/computerscientistprobots/static/js/main.615d2ccb.chunk.js",
-    "main.js.map": "/computerscientistprobots/static/js/main.615d2ccb.chunk.js.map",
-    "runtime-main.js": "/computerscientistprobots/static/js/runtime-main.d528d610.js",
-    "runtime-main.js.map": "/computerscientistprobots/static/js/runtime-main.d528d610.js.map",
-    "static/css/2.6d7c7915.chunk.css": "/computerscientistprobots/static/css/2.6d7c7915.chunk.css",
-    "static/js/2.11b51c52.chunk.js": "/computerscientistprobots/static/js/2.11b51c52.chunk.js",
-    "static/js/2.11b51c52.chunk.js.map": "/computerscientistprobots/static/js/2.11b51c52.chunk.js.map",
-    "static/js/3.7f067899.chunk.js": "/computerscientistprobots/static/js/3.7f067899.chunk.js",
-    "static/js/3.7f067899.chunk.js.map": "/computerscientistprobots/static/js/3.7f067899.chunk.js.map",
-    "index.html": "/computerscientistprobots/index.html",
-    "service-worker.js": "/computerscientistprobots/service-worker.js",
-    "service-worker.js.LICENSE.txt": "/computerscientistprobots/service-worker.js.LICENSE.txt",
-    "service-worker.js.map": "/computerscientistprobots/service-worker.js.map",
-    "static/css/2.6d7c7915.chunk.css.map": "/computerscientistprobots/static/css/2.6d7c7915.chunk.css.map",
-    "static/css/main.bdccbd3b.chunk.css.map": "/computerscientistprobots/static/css/main.bdccbd3b.chunk.css.map",
-    "static/js/2.11b51c52.chunk.js.LICENSE.txt": "/computerscientistprobots/static/js/2.11b51c52.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/computerscientistprobots/static/media/HACKED_Title.876ee2f4.woff"
+    "main.css": "/ComputerScientistProBots/static/css/main.2230e6c1.chunk.css",
+    "main.js": "/ComputerScientistProBots/static/js/main.c2a20f2f.chunk.js",
+    "main.js.map": "/ComputerScientistProBots/static/js/main.c2a20f2f.chunk.js.map",
+    "runtime-main.js": "/ComputerScientistProBots/static/js/runtime-main.f857bca2.js",
+    "runtime-main.js.map": "/ComputerScientistProBots/static/js/runtime-main.f857bca2.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/ComputerScientistProBots/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.11b51c52.chunk.js": "/ComputerScientistProBots/static/js/2.11b51c52.chunk.js",
+    "static/js/2.11b51c52.chunk.js.map": "/ComputerScientistProBots/static/js/2.11b51c52.chunk.js.map",
+    "static/js/3.7f067899.chunk.js": "/ComputerScientistProBots/static/js/3.7f067899.chunk.js",
+    "static/js/3.7f067899.chunk.js.map": "/ComputerScientistProBots/static/js/3.7f067899.chunk.js.map",
+    "index.html": "/ComputerScientistProBots/index.html",
+    "service-worker.js": "/ComputerScientistProBots/service-worker.js",
+    "service-worker.js.LICENSE.txt": "/ComputerScientistProBots/service-worker.js.LICENSE.txt",
+    "service-worker.js.map": "/ComputerScientistProBots/service-worker.js.map",
+    "static/css/2.6d7c7915.chunk.css.map": "/ComputerScientistProBots/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.2230e6c1.chunk.css.map": "/ComputerScientistProBots/static/css/main.2230e6c1.chunk.css.map",
+    "static/js/2.11b51c52.chunk.js.LICENSE.txt": "/ComputerScientistProBots/static/js/2.11b51c52.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ComputerScientistProBots/static/media/HACKED_Title.876ee2f4.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.d528d610.js",
+    "static/js/runtime-main.f857bca2.js",
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.11b51c52.chunk.js",
-    "static/css/main.bdccbd3b.chunk.css",
-    "static/js/main.615d2ccb.chunk.js"
+    "static/css/main.2230e6c1.chunk.css",
+    "static/js/main.c2a20f2f.chunk.js"
   ]
 }
