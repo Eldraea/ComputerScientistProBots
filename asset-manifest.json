@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ComputerScientistProBots/static/css/main.2230e6c1.chunk.css",
-    "main.js": "/ComputerScientistProBots/static/js/main.6c00829f.chunk.js",
-    "main.js.map": "/ComputerScientistProBots/static/js/main.6c00829f.chunk.js.map",
+    "main.js": "/ComputerScientistProBots/static/js/main.c2a20f2f.chunk.js",
+    "main.js.map": "/ComputerScientistProBots/static/js/main.c2a20f2f.chunk.js.map",
     "runtime-main.js": "/ComputerScientistProBots/static/js/runtime-main.f857bca2.js",
     "runtime-main.js.map": "/ComputerScientistProBots/static/js/runtime-main.f857bca2.js.map",
     "static/css/2.6d7c7915.chunk.css": "/ComputerScientistProBots/static/css/2.6d7c7915.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.11b51c52.chunk.js",
     "static/css/main.2230e6c1.chunk.css",
-    "static/js/main.6c00829f.chunk.js"
+    "static/js/main.c2a20f2f.chunk.js"
   ]
 }
